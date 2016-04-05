@@ -1,0 +1,2 @@
+# module-shopware
+module-shopware
