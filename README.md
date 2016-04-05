@@ -1,2 +1,2 @@
 # module-shopware
-module-shopware
+module paymentwall for shopware
